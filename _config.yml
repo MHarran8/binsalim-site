@@ -9,6 +9,7 @@ plugins:
 
 locale: ar-SA
 direction: rtl
+logo: /assets/images/logo.png
 
 # ❌ إيقاف المدونة
 collections:
