@@ -26,5 +26,25 @@ defaults:
       share: false
       related: false
       search: false
+      minimal_mistakes_skin: "default"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+# إجبار استخدام ملف الملاحة
+navigation:
+  main:
+    - title: "الرئيسية"
+      url: /
+    - title: "الخدمات"
+      url: /services/
+    - title: "من نحن"
+      url: /about/
+    - title: "تواصل معنا"
+      url: /contact/
+
 
 
