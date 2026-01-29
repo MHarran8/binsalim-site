@@ -2,6 +2,10 @@
 layout: single
 title: حلول تأجير موثوقة للمشاريع والمواقع
 permalink: /
+header:
+  overlay_image: /assets/images/hero.jpg
+  overlay_filter: 0.55
+  caption: "بن سالم للمقاولات العامة"
 ---
 
 ## بن سالم للمقاولات العامة
