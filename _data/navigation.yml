@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "الرئيسية"
+    url: /
+  - title: "الخدمات"
+    url: /services/
+  - title: "من نحن"
     url: /about/
+  - title: "تواصل معنا"
+    url: /contact/
