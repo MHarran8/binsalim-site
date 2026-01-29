@@ -25,4 +25,6 @@ defaults:
       author_profile: false
       share: false
       related: false
+      search: false
+
 
